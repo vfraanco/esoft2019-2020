@@ -1,7 +1,5 @@
 # README #
 
-Este repositório contém artefactos didáticos relavativos ao projeto desenvolvido na Unidade Curricular (UC) de Engenharia de Software (ESOFT) edição de 2019-2020 da [Licenciatura em Engenharia Informática (LEI)](http://www.isep.ipp.pt/Course/Course/26) do [Instituto Superior de Engenharia do Porto (ISEP)](http://www.isep.ipp.pt).
-
 Em particular, contém:
 
 * [Descrição do projeto (por iteração)](docs/README.md)
