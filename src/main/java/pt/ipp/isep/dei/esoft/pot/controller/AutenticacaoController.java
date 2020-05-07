@@ -10,7 +10,7 @@ import pt.ipp.isep.dei.esoft.autorizacao.model.PapelUtilizador;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AutenticacaoController
 {
