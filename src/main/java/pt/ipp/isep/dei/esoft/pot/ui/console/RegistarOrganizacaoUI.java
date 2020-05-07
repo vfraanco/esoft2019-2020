@@ -10,7 +10,7 @@ import pt.ipp.isep.dei.esoft.pot.ui.console.utils.Utils;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class RegistarOrganizacaoUI
 {
