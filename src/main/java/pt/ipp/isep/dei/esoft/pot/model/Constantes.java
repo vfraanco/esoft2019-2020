@@ -7,7 +7,7 @@ package pt.ipp.isep.dei.esoft.pot.model;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class Constantes
 {
