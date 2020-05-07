@@ -14,7 +14,7 @@ import pt.ipp.isep.dei.esoft.autorizacao.AutorizacaoFacade;
 
 /**
  *
- * @author Paulo Maio <pam@isep.ipp.pt>
+ * @author lol
  */
 public class Plataforma
 {
