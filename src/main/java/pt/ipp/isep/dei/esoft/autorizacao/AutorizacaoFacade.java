@@ -13,7 +13,7 @@ import pt.ipp.isep.dei.esoft.autorizacao.model.Utilizador;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AutorizacaoFacade
 {
