@@ -14,7 +14,7 @@ import pt.ipp.isep.dei.esoft.pot.ui.console.utils.Utils;
 
 /**
  *
- * @author Paulo Maio <pam@isep.ipp.pt>
+ * @author lol
  */
 public class MenuUI
 {
