@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class SessaoUtilizador
 {
