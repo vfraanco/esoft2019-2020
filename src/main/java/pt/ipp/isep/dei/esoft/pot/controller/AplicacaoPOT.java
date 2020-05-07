@@ -16,7 +16,7 @@ import pt.ipp.isep.dei.esoft.pot.model.Plataforma;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AplicacaoPOT
 {
