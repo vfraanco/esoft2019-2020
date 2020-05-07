@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class EnderecoPostal
 {
