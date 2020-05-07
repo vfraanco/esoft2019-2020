@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Paulo Maio <pam@isep.ipp.pt>
+ * @author lol
  */
 public class Utils
 {
