@@ -8,7 +8,7 @@ import autorizacao.model.Utilizador;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AutorizacaoFacade
 {

@@ -7,7 +7,7 @@ import pot.ui.console.utils.Utils;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class MenuAdministrativoUI
 {

@@ -3,7 +3,7 @@ package pot.model;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class Constantes
 {

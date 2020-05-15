@@ -5,7 +5,7 @@ import pot.ui.console.MenuUI;
 
 /**
  *
- * @author Paulo Maio <pam@isep.ipp.pt>
+ * @author lol
  */
 public class Main
 {

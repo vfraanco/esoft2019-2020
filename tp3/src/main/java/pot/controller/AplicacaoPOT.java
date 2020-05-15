@@ -11,7 +11,7 @@ import pot.model.Plataforma;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AplicacaoPOT
 {

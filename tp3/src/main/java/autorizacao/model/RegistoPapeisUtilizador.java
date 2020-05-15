@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class RegistoPapeisUtilizador
 {

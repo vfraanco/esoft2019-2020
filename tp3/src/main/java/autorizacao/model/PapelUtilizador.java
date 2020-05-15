@@ -3,6 +3,13 @@ package autorizacao.model;
 
 import java.util.Objects;
 
+<<<<<<< HEAD:tp3/src/main/java/autorizacao/model/PapelUtilizador.java
+=======
+/**
+ *
+ * @author lol
+ */
+>>>>>>> 700808663fac799cc5f30492eba09e48cb0226ff:src/main/java/pt/ipp/isep/dei/esoft/autorizacao/model/PapelUtilizador.java
 public class PapelUtilizador
 {
     private String m_strPapel;

@@ -6,7 +6,7 @@ import autorizacao.model.PapelUtilizador;
 
 /**
  *
- * @author paulomaio
+ * @author lol
  */
 public class AutenticacaoController
 {

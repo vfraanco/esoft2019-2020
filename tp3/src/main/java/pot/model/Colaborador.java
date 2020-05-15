@@ -1,12 +1,13 @@
 
+<<<<<<< HEAD:tp3/src/main/java/pot/model/Colaborador.java
 package pot.model;
+=======
+package pt.ipp.isep.dei.esoft.pot.model;
+>>>>>>> 700808663fac799cc5f30492eba09e48cb0226ff:src/main/java/pt/ipp/isep/dei/esoft/pot/model/Colaborador.java
 
 import java.util.Objects;
 
-/**
- *
- * @author paulomaio
- */
+
 public class Colaborador
 {
     private String m_strNome;
